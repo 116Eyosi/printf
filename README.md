@@ -62,5 +62,5 @@ _printf("%R", "adrien");
 - char *_strdup(char *str)
 
 <h2>Authors</h2>
-## Eyosiyas Nigussie 
+## Eyosiyas Nigussie <br>
 ## Teddy Omondi
