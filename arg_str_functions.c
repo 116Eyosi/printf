@@ -13,12 +13,12 @@ int print_char(va_list ap)
 {
 	char c = va_arg(ap, int);
 
-	if (c == '\0')
+	//if (c == '\0')
 	{
 		return (write(1, &c, 1));
 	}
-	_putchar(c);
-	return (1);
+	//_putchar(c);
+	//return (1);
 }
 
 /**
